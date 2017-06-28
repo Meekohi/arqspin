@@ -173,7 +173,7 @@
 				<embed_type>iframe</embed_type>
 				<display_type>gallery</display_type>
 				<gallery_position>first</gallery_position>
-				<thumbnail_url>http://s3.amazonaws.com/spins.arqspin.com</thumbnail_url>
+				<thumbnail_url>//s3.amazonaws.com/spins.arqspin.com</thumbnail_url>
 			</arqspin_general>
 		</arqspin>
 	</default>

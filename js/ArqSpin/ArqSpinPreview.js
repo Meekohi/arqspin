@@ -1,7 +1,7 @@
 function ArqSpinPreview(param)
 {
 	this.container		= document.getElementById(param.containerId);
-	this.previewUrl		= (param.previewUrl ? param.previewUrl : 'http://arq.io/i/?is=-0.16&ms=0.16');
+	this.previewUrl		= (param.previewUrl ? param.previewUrl : '//spins0.arqspin.com/iframe.html?is=-0.16&ms=0.16');
 	this.width			= 500;
 	this.height			= 500;
 	
